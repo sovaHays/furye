@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Lab2_Timer-000\Lab2_Timer">
+<ExpandedNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\TopDesign</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Pins</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Analog</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Clocks</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Interrupts</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\System</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Directives</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Flash Security</v>
+<v>Lab2_Timer-000\Lab2_Timer\Header Files</v>
+<v>Lab2_Timer-000\Lab2_Timer\Header Files\cyapicallbacks.h</v>
+<v>Lab2_Timer-000\Lab2_Timer\Source Files</v>
+<v>Lab2_Timer-000\Lab2_Timer\Source Files\main.c</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\TopDesign</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Pins</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Analog</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Clocks</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Interrupts</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\System</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Directives</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.cydwr\Flash Security</v>
+<v>Lab2_Timer-000\Lab2_Timer\Header Files</v>
+<v>Lab2_Timer-000\Lab2_Timer\Header Files\cyapicallbacks.h</v>
+<v>Lab2_Timer-000\Lab2_Timer\Source Files</v>
+<v>Lab2_Timer-000\Lab2_Timer\Source Files\main.c</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Clock_1</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Clock_2</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\cy_boot</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\cy_lfclk</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\I2C</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\I2C_SCB_IRQ</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\I2C_SCBCLK</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\I2C_scl</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\I2C_sda</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Pin_Blue</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Pin_Green</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Pin_Red</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Pin_Red_1</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\Pin_SW2</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\PWM</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\PWM1</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>Lab2_Timer-000\Lab2_Timer\Generated_Source\PSoC4\cydevice_trm.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\TopDesign</v>
+<v>Lab2_Timer-000\Lab2_Timer\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\TopDesign</v>
+<v>Lab2_Timer-000\Lab2_Timer\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Clock_2.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_EZI2C.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_EZI2C_BOOT.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_EZI2C_INT.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Blue.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Blue_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Green.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Green_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Red.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Red_1.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Red_1_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_Red_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SW2.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\Pin_SW2_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM1.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Listing Files\PWM1_PM.lst</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Lab2_Timer.elf</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Lab2_Timer.hex</v>
+<v>Lab2_Timer-000\Lab2_Timer\CortexM0\ARM_GCC_541\Debug\Lab2_Timer.map</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.gpdsc</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer.rpt</v>
+<v>Lab2_Timer-000\Lab2_Timer\Lab2_Timer_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\PSoC 4 Architecture TRM</v>
+<v>Lab2_Timer-000\Lab2_Timer\PSoC 4200 Family Datasheet</v>
+<v>Lab2_Timer-000\Lab2_Timer\System Reference Guides</v>
+<v>Lab2_Timer-000\Lab2_Timer\System Reference Guides\cy_boot_v6_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_clock_v2_20</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_pins_v2_20</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\Gnd_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\LED_v1_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\LED_v1_0\LED_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\Power_v1_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\Power_v1_0\Power_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\Resistor_v1_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\SCB_P4_v4_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\SwitchSPST_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\TCPWM_P4_v2_10</v>
+<v>Lab2_Timer-000\Lab2_Timer\TCPWM_P4_v2_10\TCPWM_P4_v2_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Lab2_Timer-000</v>
+<v>Lab2_Timer-000\Lab2_Timer</v>
+<v>Lab2_Timer-000\Lab2_Timer\PSoC 4 Architecture TRM</v>
+<v>Lab2_Timer-000\Lab2_Timer\PSoC 4200 Family Datasheet</v>
+<v>Lab2_Timer-000\Lab2_Timer\System Reference Guides</v>
+<v>Lab2_Timer-000\Lab2_Timer\System Reference Guides\cy_boot_v6_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_clock_v2_20</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_pins_v2_20</v>
+<v>Lab2_Timer-000\Lab2_Timer\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\Gnd_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\LED_v1_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\LED_v1_0\LED_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\Power_v1_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\Power_v1_0\Power_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\Resistor_v1_0</v>
+<v>Lab2_Timer-000\Lab2_Timer\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\SCB_P4_v4_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\SwitchSPST_v1_0.pdf</v>
+<v>Lab2_Timer-000\Lab2_Timer\TCPWM_P4_v2_10</v>
+<v>Lab2_Timer-000\Lab2_Timer\TCPWM_P4_v2_10\TCPWM_P4_v2_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Lab2_Timer.cydwr" />
+<name v=".\TopDesign\TopDesign.cysch" />
+<name v=".\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1098, 553" SelectedTabbedMdiWindow="2b08728a-a223-43ed-97ff-cc5c5588403b"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="7a6c240c-eb1c-4b3c-b273-23d999a87294" /><DocumentWindow Key="D:\psoc creator\progects\Lab2_Timer.cyprj.Archive01\Lab2_Timer.cydsn\Lab2_Timer.cydwr" Guid="ab239000-06be-4030-adc2-419ebef0b48a" /><DocumentWindow Key="D:\psoc creator\progects\Lab2_Timer.cyprj.Archive01\Lab2_Timer.cydsn\TopDesign\TopDesign.cysch" Guid="30890e00-72bf-4df2-8fac-fa4e9945e918" /><DocumentWindow Key="D:\psoc creator\progects\Lab2_Timer.cyprj.Archive01\Lab2_Timer.cydsn\main.c" Guid="2b08728a-a223-43ed-97ff-cc5c5588403b" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
